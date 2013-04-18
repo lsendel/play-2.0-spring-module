@@ -4,6 +4,9 @@ This module helps you integrate Spring managed beans directly within your play 2
 application. This module is a continuation of [Nicolas Leroux](https://github.com/pepite)'s
 original Spring Module for play 1.x, available on [Github](https://github.com/pepite/Play--framework-Spring-module)
 
+NOTE: You may want to use the Spring Scala integration package from SourceSafe instead.  See
+http://forum.springsource.org/showthread.php?136036-Spring-Scala-1-0-0-M2-has-been-released for details.
+
 ## Install ##
 
 To install this plugin, you will have to download the project and run
